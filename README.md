@@ -1,5 +1,5 @@
 ```bash
-cyan-00ffff/
+CNminuside/
 ├─learning/
 │ ├─GNU_Linux
 │ ├─Cybersecurity
